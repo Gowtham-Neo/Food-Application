@@ -4,6 +4,8 @@ export default function Header() {
       <h1 className="p-5 mb-5 text-2xl font-bold text-black cursor-pointer hover:text-orange-400 w-fit" id="#foodapp">
         🍕 Food App
       </h1>
+
+      {/* this is command */}
     </header>
   );
 }
